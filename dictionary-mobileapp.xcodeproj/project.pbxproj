@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B54572E8292425B20058C18C /* DictionaryController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B54572E7292425B20058C18C /* DictionaryController.swift */; };
 		B564439B291C18A600B64AB2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B564439A291C18A600B64AB2 /* AppDelegate.swift */; };
 		B564439D291C18A600B64AB2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B564439C291C18A600B64AB2 /* SceneDelegate.swift */; };
 		B564439F291C18A600B64AB2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B564439E291C18A600B64AB2 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B54572E7292425B20058C18C /* DictionaryController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DictionaryController.swift; sourceTree = "<group>"; };
 		B5644397291C18A600B64AB2 /* dictionary-mobileapp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "dictionary-mobileapp.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B564439A291C18A600B64AB2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B564439C291C18A600B64AB2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				B564439C291C18A600B64AB2 /* SceneDelegate.swift */,
 				B564439E291C18A600B64AB2 /* ViewController.swift */,
 				B56443A0291C18A600B64AB2 /* Main.storyboard */,
+				B54572E7292425B20058C18C /* DictionaryController.swift */,
 				B56443A3291C18AA00B64AB2 /* Assets.xcassets */,
 				B56443A5291C18AA00B64AB2 /* LaunchScreen.storyboard */,
 				B56443A8291C18AA00B64AB2 /* Info.plist */,
@@ -141,6 +144,7 @@
 				B564439F291C18A600B64AB2 /* ViewController.swift in Sources */,
 				B564439B291C18A600B64AB2 /* AppDelegate.swift in Sources */,
 				B564439D291C18A600B64AB2 /* SceneDelegate.swift in Sources */,
+				B54572E8292425B20058C18C /* DictionaryController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
